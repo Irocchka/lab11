@@ -56,7 +56,7 @@ $ cd ..
 ```
 
 ```sh
-$ wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-amd64.zip - скачать нгрок (это сервис, позволяющий создавать туннели к localhost)
+$ wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-amd64.zip - скачать нгрок (это сервис)
 $ unizp ngrok-stable-linux-amd64.zip - разархивировать нгрок 
 $ mv ngrok ${HOME_PREFIX}/bin - переместить папку нгрок в папку бин
 ```
